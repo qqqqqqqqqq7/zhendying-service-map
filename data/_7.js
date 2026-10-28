@@ -1,0 +1,1 @@
+var json__7 = {"type":"FeatureCollection","name":"_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"name":"郑营社区"},"geometry":{"type":"Point","coordinates":[113.189,33.777]}}]}
